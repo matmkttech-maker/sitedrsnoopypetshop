@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matmkttech-maker.github.io/sitedrsnoopypetshop/sitemap.xml

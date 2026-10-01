@@ -1,0 +1,32 @@
+# Dr. Snoopy Pet Shop - Abrantes
+
+> Pet shop em Catu de Abrantes, Camaçari, Bahia. Informações fornecidas pelo estabelecimento para a página. Não há plantão 24 horas.
+
+## Informações essenciais
+
+- Nome: Dr. Snoopy Pet Shop - Abrantes.
+- Endereço: Rodovia BA-099, Estrada do Coco, KM 08, Catu de Abrantes, Camaçari - BA, CEP 42825-901, Brasil.
+- WhatsApp e contato: +55 71 98553-9111.
+- Atendimento: segunda a sexta-feira, 08:00–17:00; sábado, 08:00–15:00. Feriados: consultar.
+- Serviços apresentados: banho, tosa, atendimento veterinário e vacinas. Consulte agenda e disponibilidade.
+- Hotel e creche: oferta, disponibilidade e condições precisam ser confirmadas com a equipe.
+- Preços: sob consulta. Não há tabela de preços publicada nem valores numéricos confirmados.
+- Responsável técnico e CRMV-BA: dados ainda não fornecidos; confirmar diretamente com o estabelecimento.
+- Agendamento: solicitação pelo WhatsApp; a reserva depende de confirmação da equipe.
+- Emergências: o estabelecimento não possui plantão ou emergência 24 horas.
+
+## Páginas e contato
+
+- [Página principal](https://matmkttech-maker.github.io/sitedrsnoopypetshop/): serviços, relatos de tutores, dúvidas e localização.
+- [Serviços](https://matmkttech-maker.github.io/sitedrsnoopypetshop/#servicos): detalhes dos cuidados e consulta de preços.
+- [Perguntas frequentes](https://matmkttech-maker.github.io/sitedrsnoopypetshop/#duvidas): seis respostas sobre agendamento, preços, localização, emergência, atendimento e hotel.
+- [WhatsApp](https://wa.me/5571985539111): solicite preços e horários.
+- [Sitemap](https://matmkttech-maker.github.io/sitedrsnoopypetshop/sitemap.xml): página canônica do site.
+
+## Origem dos depoimentos e imagens
+
+A página reproduz três avaliações ou trechos atribuídos a Evanize Britto, Ludmila Lelis e Ana Paula Veloso, conforme capturas do Google fornecidas pelo solicitante. Cada captura mostra cinco estrelas; isso não representa a nota média do estabelecimento. As fotos de pets são ilustrativas e não identificam os animais das avaliadoras. Não há alegação de número total de avaliações ou clientes.
+
+## Limites das informações
+
+Não inferir valores, credenciais, horários de domingo, oferta confirmada de hotel/creche, disponibilidade imediata, emergências 24h ou eficácia de tratamentos. O site é publicado no GitHub Pages. A indexação e as citações dependem das políticas de cada mecanismo.
